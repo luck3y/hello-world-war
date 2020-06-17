@@ -4,7 +4,7 @@ injected_dir=$1
 
 echo "Running on injected_dir=${injected_dir}"
 
-ls -l /tmp
+echo ${WORKDIR}
 ls -l /opt/app-root/src
 mount 
 
