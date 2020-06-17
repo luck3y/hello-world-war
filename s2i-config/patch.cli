@@ -1,2 +1,2 @@
-patch apply /tmp/patches/test-patch.zip --override-all
+patch apply /tmp/test-patch.zip --override-all
 quit
