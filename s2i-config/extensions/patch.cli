@@ -1,3 +1,0 @@
-embed-server --std-out=echo  --server-config=standalone-openshift.xml
-patch apply /opt/patches/test-patch.zip --override-all
-quit
