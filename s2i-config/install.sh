@@ -5,6 +5,7 @@ injected_dir=$1
 echo "Running on injected_dir=${injected_dir}"
 
 ls -l /tmp
+ls -l /tmp/artifacts
 mount 
 
 echo "Applying patch"
